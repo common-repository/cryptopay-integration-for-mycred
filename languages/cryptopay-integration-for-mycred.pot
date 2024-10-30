@@ -1,0 +1,105 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CryptoPay Integration for myCred\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-21 10:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6\n"
+"X-Domain: cryptopay-integration-for-mycred"
+
+#: views/cashcred.php:48
+msgid "Address"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds Cryptocurrency payment gateway (CryptoPay) and crypto withdrawal for "
+"myCred."
+msgstr ""
+
+#. Author of the plugin
+msgid "BeycanPress LLC"
+msgstr ""
+
+#: views/cashcred.php:4
+msgid "CryptoPay Details"
+msgstr ""
+
+#. Name of the plugin
+msgid "CryptoPay Integration for myCred"
+msgstr ""
+
+#: views/cashcred-preferences.php:16 views/preferences.php:15
+msgid "Currency"
+msgstr ""
+
+#: views/preferences.php:8
+msgid "Dark"
+msgstr ""
+
+#: views/cashcred-preferences.php:22 views/preferences.php:21
+msgid "Exchange Rates"
+msgstr ""
+
+#: app/Loader.php:62
+msgid "Failed to credit users account."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://beycanpress.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://beycanpress.com/cryptopay/"
+msgstr ""
+
+#: views/preferences.php:7
+msgid "Light"
+msgstr ""
+
+#: views/cashcred-preferences.php:9
+msgid "Maximum Points Withdrawal"
+msgstr ""
+
+#: views/cashcred-preferences.php:5
+msgid "Minimum Points Withdrawal"
+msgstr ""
+
+#: views/cashcred.php:27
+msgid "Payment currency"
+msgstr ""
+
+#: views/cashcred.php:11
+msgid "Payment network"
+msgstr ""
+
+#. %s: transaction hash
+#: app/Loader.php:68
+#, php-format
+msgid "Payment not completed. Transaction hash: %s"
+msgstr ""
+
+#: views/cashcred-preferences.php:3 views/preferences.php:3
+msgid "Settings"
+msgstr ""
+
+#: views/cashcred-preferences.php:14 views/preferences.php:13
+msgid "Setup"
+msgstr ""
+
+#: views/preferences.php:5
+msgid "Theme"
+msgstr ""
+
+#: app/BuyCredGateway.php:154
+msgid "This gateway does not support AJAX payments."
+msgstr ""
